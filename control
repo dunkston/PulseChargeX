@@ -1,0 +1,9 @@
+Package: com.dunkston.pulsechargex
+Name: PulseChargeX
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ChargePulse on iPhone X
+Maintainer: dunkston
+Author: dunkston
+Section: Tweaks
